@@ -1,0 +1,6 @@
+# Compiled source #
+###################
+*.class
+
+# Don't track
+OneTimePadCipher.java
